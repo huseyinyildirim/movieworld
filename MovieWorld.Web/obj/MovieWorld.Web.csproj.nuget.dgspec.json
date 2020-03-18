@@ -26,7 +26,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Mehtap\\Desktop\\MovieWorld\\MovieWorld.Models\\MovieWorld.Models.csproj": {
+                "projectPath": "C:\\Users\\Mehtap\\Desktop\\MovieWorld\\MovieWorld.Models\\MovieWorld.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

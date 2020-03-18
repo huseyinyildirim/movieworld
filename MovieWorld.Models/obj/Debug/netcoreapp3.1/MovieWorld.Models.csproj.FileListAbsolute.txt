@@ -1,7 +1,6 @@
 C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Models\bin\Debug\netcoreapp3.1\MovieWorld.Models.deps.json
 C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Models\bin\Debug\netcoreapp3.1\MovieWorld.Models.dll
 C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Models\bin\Debug\netcoreapp3.1\MovieWorld.Models.pdb
-C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Models\obj\Debug\netcoreapp3.1\MovieWorld.Models.csprojAssemblyReference.cache
 C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Models\obj\Debug\netcoreapp3.1\MovieWorld.Models.csproj.CoreCompileInputs.cache
 C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Models\obj\Debug\netcoreapp3.1\MovieWorld.Models.AssemblyInfoInputs.cache
 C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Models\obj\Debug\netcoreapp3.1\MovieWorld.Models.AssemblyInfo.cs

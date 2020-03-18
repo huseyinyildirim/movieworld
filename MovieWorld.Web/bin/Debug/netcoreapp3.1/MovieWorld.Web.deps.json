@@ -1352,7 +1352,8 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.2",
           "Microsoft.AspNetCore.Identity.UI": "3.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.2",
-          "Microsoft.EntityFrameworkCore.Tools": "3.1.2"
+          "Microsoft.EntityFrameworkCore.Tools": "3.1.2",
+          "MovieWorld.Models": "1.0.0"
         },
         "runtime": {
           "MovieWorld.Data.dll": {}

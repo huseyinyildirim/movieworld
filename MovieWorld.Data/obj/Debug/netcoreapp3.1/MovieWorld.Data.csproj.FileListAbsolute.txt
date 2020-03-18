@@ -1,0 +1,12 @@
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\bin\Debug\netcoreapp3.1\MovieWorld.Data.deps.json
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\bin\Debug\netcoreapp3.1\MovieWorld.Data.runtimeconfig.json
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\bin\Debug\netcoreapp3.1\MovieWorld.Data.runtimeconfig.dev.json
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\bin\Debug\netcoreapp3.1\MovieWorld.Data.dll
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\bin\Debug\netcoreapp3.1\MovieWorld.Data.pdb
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\obj\Debug\netcoreapp3.1\MovieWorld.Data.csprojAssemblyReference.cache
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\obj\Debug\netcoreapp3.1\MovieWorld.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\obj\Debug\netcoreapp3.1\MovieWorld.Data.AssemblyInfoInputs.cache
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\obj\Debug\netcoreapp3.1\MovieWorld.Data.AssemblyInfo.cs
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\obj\Debug\netcoreapp3.1\MovieWorld.Data.dll
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\obj\Debug\netcoreapp3.1\MovieWorld.Data.pdb
+C:\Users\Mehtap\Desktop\MovieWorld\MovieWorld.Data\obj\Debug\netcoreapp3.1\MovieWorld.Data.genruntimeconfig.cache
